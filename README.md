@@ -16,5 +16,5 @@ Here are some dsideas to get you started:
 -->
 # I am a Cloud Engineering student who is learning and improving every day.
  - 🌱 Currently studying ICT/Cloud engineering
- - Also working on *learntocloud.guide* 
+ - 🔭 Also working on *learntocloud.guide* 
  
